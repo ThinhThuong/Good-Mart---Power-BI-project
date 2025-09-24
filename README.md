@@ -24,3 +24,11 @@ Finally, drill-down tables offered a detailed view of store-level performance wi
 ### Slide 3:
 
 <img width="1274" height="713" alt="image" src="https://github.com/user-attachments/assets/ce4a7bda-6707-4e31-8b27-636aeb3c3d7b" />
+
+In 2022, Good Mart recorded a total revenue of 5.9 billion VND, falling short of both the sales plan of 6.4 billion VND and the previous year’s revenue of 6.9 billion VND. This performance reflects that the company only achieved 92% of its target, while also experiencing a 15% decline year-over-year. These results highlight that 2022 was a challenging year in terms of meeting business objectives.
+
+When revenue was broken down by store, none of the branches managed to reach their assigned sales plans. For instance, the store managed by Phạm Đức Phúc generated 1.6 billion VND, falling short of its planned 1.8 billion VND, while the Cao Nhựt Minh branch achieved 1.4 billion VND compared to its plan of 1.6 billion VND. Other stores followed a similar pattern, with consistent underperformance relative to their targets. Notably, the branch under Phạm Ngọc Thùy Dương reported no revenue at all. This indicates that the sales gap was not limited to specific districts but spread across multiple stores in the chain.
+
+Looking at the revenue trend by month, the analysis showed that from January to December, actual sales never exceeded the planned targets. Although sales displayed seasonal growth with peaks in mid and late months, they still remained below expectations. Compared with 2021, the cumulative revenue of 2022 also lagged behind at every stage of the year, confirming that the shortfall persisted throughout the entire period without any month providing a breakthrough.
+
+From a product perspective, categories displayed highly uneven performance. Household goods, which traditionally account for the largest share of revenue, dropped significantly by 40% year-over-year, dragging down the overall results. In contrast, most food-related categories saw substantial growth: packaged foods rose by 775%, frozen foods surged by more than 4,000%, and cooking ingredients increased by over 1,300%. Despite these impressive gains, their smaller revenue base could not offset the sharp decline in household goods, making it the main factor behind the overall negative growth.
