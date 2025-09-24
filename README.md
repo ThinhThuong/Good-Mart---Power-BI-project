@@ -1,6 +1,9 @@
 # Good-Mart---Power-BI-project
 ## Introduction
 This project showcases my skills in data modeling, DAX calculations, and interactive reporting using Power BI. The dataset represents sales transactions from Good Mart, a supermarket chain. I performed data cleaning and transformation by adjusting feature formats, creating calculated tables and measures, and applying DAX formulas to calculate key metrics. The final report provides insights into sales performance, enabling comparison across stores and monitoring overall business effectiveness.
+The below picture demonstrates the data modelling:
+
+<img width="939" height="710" alt="image" src="https://github.com/user-attachments/assets/e219e2ca-9a39-4c01-af7e-b2d27e3e2664" />
 
 ## Results
 ### Slide 1:
