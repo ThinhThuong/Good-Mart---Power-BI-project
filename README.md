@@ -40,23 +40,18 @@ From a product perspective, categories displayed highly uneven performance. Hous
 
 <img width="1292" height="706" alt="image" src="https://github.com/user-attachments/assets/d3284d11-4e09-40da-b5da-70a09eb05eb0" />
 
-**Overall Performance**
-In 2022, the company achieved total revenue of 6 billion VND, with 61,000 products sold, 27,000 orders, and 18,000 customers. This reflects a strong sales volume, but growth metrics suggest that sustaining performance may be a challenge.
+**Overall Performance**: In 2022, the company achieved total revenue of 6 billion VND, with 61,000 products sold, 27,000 orders, and 18,000 customers. This reflects a strong sales volume, but growth metrics suggest that sustaining performance may be a challenge.
 
-**Revenue by District**
-Cầu Giấy district contributed the highest share of revenue at 27%, followed by Hai Bà Trưng at 19%. Other significant areas included Ba Đình (13%), Thanh Xuân (11%), and Hoàn Kiếm (13%), while Đống Đa accounted for 10%. This distribution shows that sales are concentrated in just a few districts, particularly Cầu Giấy.
+**Revenue by District**: Cầu Giấy district contributed the highest share of revenue at 27%, followed by Hai Bà Trưng at 19%. Other significant areas included Ba Đình (13%), Thanh Xuân (11%), and Hoàn Kiếm (13%), while Đống Đa accounted for 10%. This distribution shows that sales are concentrated in just a few districts, particularly Cầu Giấy.
 
-**Revenue by Store**
-Ngọc Hồ store led with 393 million VND, closely followed by Đốc Chợ Thành Công at 384 million VND. Several other stores, including Hàn Thuyên, UDIC Riverside 1, and Phan Chu Trinh, contributed between 263 million and 290 million VND. Overall, revenue across stores was relatively balanced, but none exceeded 400 million VND.
+**Revenue by Store**: Ngọc Hồ store led with 393 million VND, closely followed by Đốc Chợ Thành Công at 384 million VND. Several other stores, including Hàn Thuyên, UDIC Riverside 1, and Phan Chu Trinh, contributed between 263 million and 290 million VND. Overall, revenue across stores was relatively balanced, but none exceeded 400 million VND.
 
-**Revenue by Product Category**
-Household products dominated sales, generating 3.9 billion VND, or 66.1% of total revenue. Packaged foods followed with 1.0 billion VND (21.17%), and beverages contributed 0.5 billion VND (8.37%). Other categories, such as frozen, dry, fresh, and raw ingredient products, accounted for only 0.1–0.3 billion VND each. This highlights a strong reliance on household products as the primary revenue driver.
+**Revenue by Product Category**: Household products dominated sales, generating 3.9 billion VND, or 66.1% of total revenue. Packaged foods followed with 1.0 billion VND (21.17%), and beverages contributed 0.5 billion VND (8.37%). Other categories, such as frozen, dry, fresh, and raw ingredient products, accounted for only 0.1–0.3 billion VND each. This highlights a strong reliance on household products as the primary revenue driver.
 
-**Revenue and Growth Trend**
-Revenue showed a generally upward trend throughout 2022, with noticeable fluctuations likely tied to promotional campaigns or seasonal demand. While growth was steady, it was not exponential, and performance dropped toward the end of the year.
+**Revenue and Growth Trend**: Revenue showed a generally upward trend throughout 2022, with noticeable fluctuations likely tied to promotional campaigns or seasonal demand. While growth was steady, it was not exponential, and performance dropped toward the end of the year.
 
-**Sales Performance by Region Manager**
-Among regional managers, Phạm Đức Phúc generated the highest revenue of 1.6 billion VND but recorded a sharp decline of -39% in growth. Cao Nhựt Minh achieved 1.44 billion VND with a slight decrease of -2%. In contrast, Nguyễn Quang Đức earned 1.12 billion VND with a modest increase of +2%, and Bùi Thị Thanh Phương recorded the highest growth rate of +6%, although with lower revenue of 0.98 billion VND. Overall, total revenue across managers reached 5.9 billion VND, but growth declined by -15%.
+**Sales Performance by Region Manager**: Among regional managers, Phạm Đức Phúc generated the highest revenue of 1.6 billion VND but recorded a sharp decline of -39% in growth. Cao Nhựt Minh achieved 1.44 billion VND with a slight decrease of -2%. In contrast, Nguyễn Quang Đức earned 1.12 billion VND with a modest increase of +2%, and Bùi Thị Thanh Phương recorded the highest growth rate of +6%, although with lower revenue of 0.98 billion VND. Overall, total revenue across managers reached 5.9 billion VND, but growth declined by -15%.
 
 **Key Insights**
+
 The company’s revenue remains highly dependent on household products and a small number of high-performing districts. Despite strong sales volume, overall growth is declining, highlighting potential weaknesses in sustaining performance. Regional manager performance is mixed, with some achieving strong revenue but negative growth, while others deliver lower revenue but positive momentum. To address these issues, the company should focus on diversifying product categories, strengthening underperforming districts, and balancing contributions across managers.
